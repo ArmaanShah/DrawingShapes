@@ -1,7 +1,7 @@
 
 /*
  * DrawingShapes.java
- * Author:  Armaan Shah
+ * Author: Armaan Shah
 
 import java.util.Scanner;
 
